@@ -4,9 +4,12 @@
     margin-bottom: 20px; 
 } 
 body {
-    background-image: url('El-Calentamiento-Global/planet.jpg in main'); 
-    background-size: cover; 
-    background-position: center;
+    background-image: url('El-Calentamiento-Global/planet.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 }
 
 h1 {
